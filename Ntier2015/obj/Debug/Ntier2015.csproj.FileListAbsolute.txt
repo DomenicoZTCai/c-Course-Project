@@ -1,0 +1,171 @@
+E:\代码\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe.config
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+E:\代码\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe
+E:\代码\Ntier2015\Ntier2015\bin\Debug\Ntier2015.pdb
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.exe
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.pdb
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+E:\代码\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.pdb
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\bin\Debug\Ntier2015.exe
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\bin\Debug\Ntier2015.pdb
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.TeacherManager.TeacherForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.StudentManager.InputStudentForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.TeacherManager.InputTeacherForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.CourseManager.studentInClass.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreAnalysis.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreResearch.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreUpdate.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.CourseManager.InputCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015(包含学生管理模块)\Ntier2015\obj\Debug\Ntier2015.CourseManager.Faculty.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.pdb
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\bin\Debug\Ntier2015.pdb
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.InputCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.Faculty.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.studentInClass.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreAnalysis.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreResearch.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreUpdate.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.InputStudentForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.InputTeacherForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchTeacherForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.SearchCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.OpenCourseForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.pdb
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\bin\Debug\Ntier2015.pdb
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.InputCourseForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.Faculty.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.OpenCourseForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.studentInClass.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreAnalysis.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreResearch.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreUpdate.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.InputStudentForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.InputTeacherForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchTeacherForm.resources
+C:\Users\Czt\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.pdb
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\bin\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\bin\Debug\Ntier2015.pdb
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.InputCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.Faculty.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.OpenCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.CourseManager.studentInClass.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreAnalysis.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreResearch.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreUpdate.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.InputStudentForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.InputTeacherForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchTeacherForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.CheckCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.CompulsoryCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.CheckCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.CompulsoryCourseForm.resources
+C:\Users\pique\Desktop\Ntier2015\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\软件开发\xuanke\Ntier2015\Ntier2015\obj\Debug\Ntier2015.StudentManager.selectCompulsoryCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.pdb
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.exe
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.pdb
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.InputCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.Faculty.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.OpenCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.SearchCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.CheckCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.CompulsoryCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.selectCompulsoryCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.studentInClass.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreAnalysis.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreResearch.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreUpdate.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.InputStudentForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.TeacherManager.InputTeacherForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchCourseForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchTeacherForm.resources
+C:\Users\pique\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.pdb
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.pdb
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.csprojResolveAssemblyReference.cache
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.InputCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.Faculty.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.OpenCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.CheckCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.CompulsoryCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.selectCompulsoryCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.CourseManager.studentInClass.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.LoginForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.MainForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.Properties.Resources.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreAnalysis.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreResearch.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.ScoreManager.ScoreUpdate.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.InputStudentForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.SearchStudentForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.StudentManager.SelectCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.TeacherManager.InputTeacherForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchCourseForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.TeacherManager.SearchTeacherForm.resources
+C:\Users\Czt\Desktop\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.csproj.GenerateResource.Cache
+C:\Users\Czt\Desktop\大学\C#软件开发\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.exe.config
+C:\Users\Czt\Desktop\大学\C#软件开发\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.exe
+C:\Users\Czt\Desktop\大学\C#软件开发\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.pdb
+F:\大学\C#软件开发\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\bin\Debug\Ntier2015.exe.config
+F:\大学\C#软件开发\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.exe
+F:\大学\C#软件开发\c#大作业 蔡中天 施震宇 陈德立 曾佳丽\Ntier2015\obj\Debug\Ntier2015.pdb
